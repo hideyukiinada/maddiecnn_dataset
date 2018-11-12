@@ -8,4 +8,6 @@ Here are the terms if you want to download or use any of the photos:
 2) Publication or re-distribution of image or images in any form is not allowed without my written consent.
 
 ## Where to put image files
-After unzipping the zip file, I recommend moving some of the files to 256.test directory.  files_to_move_to_test_dir.txt contains the list of files that I moved to 256.test for testing the performance of prediction against images that are not in the training set.
+After unzipping the zip file in dataset/256 directory, I recommend moving some of the files to dataset/256.test directory.  files_to_move_to_test_dir.txt contains the list of files that I moved to 256.test for testing the performance of prediction against images that are not in the training set.
+Please see the below URL for more information:
+https://github.com/hideyukiinada/maddiecnn
